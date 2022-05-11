@@ -6,3 +6,5 @@ the data. in this project two-controller first one is the auth controller and th
 auth controller manages all functionality like role-based login and registration he well manages the whole project 
 to authorize a user to manage all the functionality second one is todo controller in this controller crud operation 
 on a student like add, modify and delete.
+
+- Auth Controller 
